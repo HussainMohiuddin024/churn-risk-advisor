@@ -115,7 +115,7 @@ Shows the predicted churn probability, risk band, decision threshold, and what-i
 
 Shows batch prediction results for sample customers.
 
-3. Model_Information
+3. Model_Info
 
 Shows model details, number of features, cross-validation AUC, test AUC, and model version.
 👨‍💻 Author
