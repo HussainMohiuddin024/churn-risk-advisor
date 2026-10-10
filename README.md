@@ -60,7 +60,7 @@ These metrics are from the project’s recorded model evaluation. AUC measures h
 
 Open the deployed application here:
 
-Churn Risk Advisor — Live App
+Churn Risk Advisor — Live App:https://churn-risk-advisor-s8pr7und23lxk4wtd3l3z4.streamlit.app/
 
 The application is deployed using Streamlit Community Cloud and connected to the GitHub repository.
 
