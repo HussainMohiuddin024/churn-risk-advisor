@@ -104,7 +104,8 @@ http://localhost:8501
 * Model performance may vary on new or unseen customer data.
 * Risk labels depend on the selected threshold and should support, not replace, informed decisions.
 * The model is intended for educational and demonstration purposes, not as the sole basis for customer-related decisions.
-
+  
+Application Screenshots Single Customer Predition:
 👨‍💻 Author
 
 Hussain Mohiuddin
