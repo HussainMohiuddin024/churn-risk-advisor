@@ -107,15 +107,15 @@ http://localhost:8501
   
 Application Screenshots:
 
-1.Single_Customer
+1.Single_Customer.png
 
 Shows the predicted churn probability, risk band, decision threshold, and what-if analysis.
 
-2.Batch_Scoring
+2.Batch_Scoring.png
 
 Shows batch prediction results for sample customers.
 
-3. Model_Info
+3. Model_Info.png
 
 Shows model details, number of features, cross-validation AUC, test AUC, and model version.
 👨‍💻 Author
