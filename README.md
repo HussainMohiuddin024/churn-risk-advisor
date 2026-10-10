@@ -105,7 +105,19 @@ http://localhost:8501
 * Risk labels depend on the selected threshold and should support, not replace, informed decisions.
 * The model is intended for educational and demonstration purposes, not as the sole basis for customer-related decisions.
   
-Application Screenshots Single Customer Predition:
+Application Screenshots:
+
+1.Single_Customer
+
+Shows the predicted churn probability, risk band, decision threshold, and what-if analysis.
+
+2.Batch_Scoring
+
+Shows batch prediction results for sample customers.
+
+3. Model_Information
+
+Shows model details, number of features, cross-validation AUC, test AUC, and model version.
 👨‍💻 Author
 
 Hussain Mohiuddin
